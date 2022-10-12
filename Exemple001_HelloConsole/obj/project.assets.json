@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "Z:\\учимся разработке\\c#_vvedenie\\EXEMPELS\\Exemple001_HelloConsole\\Exemple001_HelloConsole.csproj",
+      "projectUniqueName": "Z:\\учимся разработке\\c#_vvedenie\\EXEMPLES\\Exemple001_HelloConsole\\Exemple001_HelloConsole.csproj",
       "projectName": "Exemple001_HelloConsole",
-      "projectPath": "Z:\\учимся разработке\\c#_vvedenie\\EXEMPELS\\Exemple001_HelloConsole\\Exemple001_HelloConsole.csproj",
+      "projectPath": "Z:\\учимся разработке\\c#_vvedenie\\EXEMPLES\\Exemple001_HelloConsole\\Exemple001_HelloConsole.csproj",
       "packagesPath": "C:\\Users\\Dril\\.nuget\\packages\\",
-      "outputPath": "Z:\\учимся разработке\\c#_vvedenie\\EXEMPELS\\Exemple001_HelloConsole\\obj\\",
+      "outputPath": "Z:\\учимся разработке\\c#_vvedenie\\EXEMPLES\\Exemple001_HelloConsole\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
