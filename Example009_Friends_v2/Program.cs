@@ -4,7 +4,7 @@ int time = 0;
 
 Console.WriteLine("**Задача** сколько раз собака сбегает от одног своего  друга ко второму другу, пока друзья Шарика идут на встречу.");
 Console.Write("Ввдите дистанцию: ");
-string distanceW = Console.ReadLine();
+int distance = int.Parse(Console.ReadLine());
 
 
 Console.Write("Скорость первого друга: ");
@@ -22,15 +22,11 @@ string DogSpeedW = Console.ReadLine();
 Console.Write("Укажите цифрой, от кого из друзей начал бежать Шарик, цифра 1 - это первый друг, цифра 2 -второй дрруг пса: ");
 string FriandW = Console.ReadLine();
 
-int distance = Int32.Parse(distanceW);
+
 int FirstFriandSpeed = Int32.Parse(FirstFriandSpeedW);
 int SecondFriandSpeed = Int32.Parse(SecondFriandSpeedW);
 int DogSpeed = Int32.Parse(DogSpeedW);
 int Friand = Int32.Parse(FriandW);
-
-
-
-
 
 
 
